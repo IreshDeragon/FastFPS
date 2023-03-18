@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{d9bdee1f-082e-4ce0-8ce5-34d11a69374e}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../../../../../GitWorkSpace/FastFPS/BioEntityBurst/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{44f29199-7ac7-4440-a11e-238d8e7518de}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{e96d7088-792e-4645-ac85-af9b4aad184a}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{30786382-ee5d-4b7c-b3ac-e28be229e981}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{e5fda41d-82b7-45ff-81d4-d9c17d6a0a35}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{05e01e9c-3e54-4c39-994c-f2e4330ad461}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{f4de19c2-499a-4e14-8c4d-b6efb808c1bc}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{f4448e47-8bdc-4b90-99d5-4557e301ec8f}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{e63d875a-1f49-41b5-be42-8340449997e9}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{7c4a69a8-124a-41a4-8d65-353ff660f05a}</destination>
+		</relationship>
+	</object>
+</objects>
