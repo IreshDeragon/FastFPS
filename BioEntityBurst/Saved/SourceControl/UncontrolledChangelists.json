@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BT_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/AIC_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BP_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BB_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_setVelocityTowardPlayer.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Nest/Nest.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Level/ProtoLevel.umap",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/Character/Input/IMC_Default.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BaseWeapon2.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BP_WeaponController.uasset",
