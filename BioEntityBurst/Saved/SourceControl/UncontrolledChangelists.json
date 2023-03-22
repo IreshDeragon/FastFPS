@@ -18,7 +18,13 @@
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_CanShoot.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BT_FlyingMob.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Level/ProtoLevel.umap",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Nest/Nest.uasset"
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Nest/Nest.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/ProjectileFlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_FlyingMob_Shoot.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Parameters/STR_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BP_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_setVelocityTowardPlayer.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_DanceBeforeShooting.uasset"
 			]
 		}
 	]
