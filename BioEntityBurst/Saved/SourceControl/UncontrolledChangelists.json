@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Level/LevelPhilo.umap",
-				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Level/Level_Philo.umap",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/Character/Input/IMC_Default.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BaseWeapon2.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BP_WeaponController.uasset",
@@ -23,6 +21,9 @@
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Parameters/STR_Ammo.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BP_DisplayUI.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/UI_DisplayAmmoAndVictims.uasset",
+				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/Character/Input/Actions/IA_HomingMissiles.uasset",
+				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Level/LevelPhilo.umap",
+				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Level/Level_Philo.umap",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/UI_DisplayAmmo.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BT_FlyingMob.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/AIC_FlyingMob.uasset",
