@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Level/LevelPhilo.umap",
+				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Level/Level_Philo.umap",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/Character/Input/IMC_Default.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BaseWeapon2.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/BP_WeaponController.uasset",
