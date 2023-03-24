@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/BasicMob/BB_Ai.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/AIC_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_CanShoot.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BT_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Level/ProtoLevel.umap",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Nest/Nest.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_FlyingMob_Shoot.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Parameters/STR_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BP_FlyingMob.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_setVelocityTowardPlayer.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_DanceBeforeShooting.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_AvoidWall.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/VFX/SmokeNest.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_WallAvoidance.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/ProjectileLaser.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/BasicMob/BP_BasicMobs.uasset",
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/VFX/NuageAtomique.uasset",
 				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Mesh/Enemies/Pondeur/BodyAss.uasset",
 				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Mesh/Enemies/Pondeur/BodyMiddle.uasset",
 				"C:/Users/philo/Documents/Unreal Projects/FastFPS/BioEntityBurst/Content/Mesh/Enemies/Pondeur/Head.uasset",
@@ -41,18 +58,7 @@
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/FoesTargeted.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/WeaponsAndProjectiles/GrenadeLauncher.uasset",
 				"C:/Users/reuna/OneDrive/Bureau/ICAN 2022-2023/Trimestre 2/Projet trimestriel/True FPS/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/Projectile_FlyingMob.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/BasicMob/BB_Ai.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/AIC_FlyingMob.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_CanShoot.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BT_FlyingMob.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Level/ProtoLevel.umap",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Nest/Nest.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/ProjectileFlyingMob.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_FlyingMob_Shoot.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Parameters/STR_FlyingMob.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BP_FlyingMob.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_setVelocityTowardPlayer.uasset",
-				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_DanceBeforeShooting.uasset"
+				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/ProjectileFlyingMob.uasset"
 			]
 		}
 	]
