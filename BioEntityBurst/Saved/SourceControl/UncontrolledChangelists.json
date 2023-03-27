@@ -29,6 +29,7 @@
 				"E:/ProjetCatKital/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Breeder/AIC_Breeder.uasset",
 				"E:/ProjetCatKital/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/Nest/Nest.uasset",
 				"E:/ProjetCatKital/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_AvoidWall.uasset",
+				"E:/ProjetCatKital/FastFPS/BioEntityBurst/Content/Parameters/STR_Hook.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/BasicMob/BB_Ai.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/AIC_FlyingMob.uasset",
 				"C:/GitWorkSpace/FastFPS/BioEntityBurst/Content/Blueprints/Enemies/FlyingMob/BTTask_CanShoot.uasset",
