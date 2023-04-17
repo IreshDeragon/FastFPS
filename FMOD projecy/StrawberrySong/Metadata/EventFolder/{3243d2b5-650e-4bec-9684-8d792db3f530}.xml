@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{3243d2b5-650e-4bec-9684-8d792db3f530}">
+		<property name="name">
+			<value>Character_SM_Grappin</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7d447066-327e-4e9c-8f6a-4ecc53385101}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{fc32dc06-c071-4dc8-90d0-36c1deca53a4}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="name">
-			<value>Shotgun</value>
+			<value>Weapon_S_Shoot</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
 		</property>
 		<relationship name="folder">
-			<destination>{03b7db32-5a50-4462-b3c4-d2c8138e430a}</destination>
+			<destination>{d8fcd5b6-ae57-49ef-9933-3eb51cf409d5}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{198c0b0d-c13e-43ca-9cd4-bafdfe193004}</destination>
@@ -60,7 +63,7 @@
 	<object class="MarkerTrack" id="{950aa3a1-7fb9-4b3a-b597-c3ba3fe594d6}" />
 	<object class="GroupTrack" id="{a3fa5eb5-1710-416e-ae91-778229b8b814}">
 		<relationship name="modules">
-			<destination>{cdfdb2f8-ddd0-48df-8602-d160cd2f914d}</destination>
+			<destination>{9d29c61c-dbb0-4f7e-8807-39323d8db606}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{bd73b865-6081-452d-b324-95ead4617845}</destination>
@@ -68,7 +71,7 @@
 	</object>
 	<object class="Timeline" id="{6581691e-9be5-4f70-a981-edf11d26ff7f}">
 		<relationship name="modules">
-			<destination>{cdfdb2f8-ddd0-48df-8602-d160cd2f914d}</destination>
+			<destination>{9d29c61c-dbb0-4f7e-8807-39323d8db606}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{e7140522-9bc4-49cd-90d7-61dc0e9001c2}">
@@ -88,7 +91,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{485f0c47-cb3e-4a09-b758-4c5edbb75521}" />
-	<object class="SingleSound" id="{cdfdb2f8-ddd0-48df-8602-d160cd2f914d}">
+	<object class="SingleSound" id="{9d29c61c-dbb0-4f7e-8807-39323d8db606}">
 		<property name="length">
 			<value>1.5063541666666667</value>
 		</property>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{d9bdee1f-082e-4ce0-8ce5-34d11a69374e}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../../../../../GitWorkSpace/FastFPS/BioEntityBurst/Content/FMOD</value>
+			<value>../../BioEntityBurst/Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{44f29199-7ac7-4440-a11e-238d8e7518de}</destination>
