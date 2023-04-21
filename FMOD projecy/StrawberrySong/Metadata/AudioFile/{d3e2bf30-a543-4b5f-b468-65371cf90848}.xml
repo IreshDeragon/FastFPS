@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d3e2bf30-a543-4b5f-b468-65371cf90848}">
 		<property name="assetPath">
-			<value>breach_detected.wav</value>
+			<value>World_VA/breach_detected.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>
