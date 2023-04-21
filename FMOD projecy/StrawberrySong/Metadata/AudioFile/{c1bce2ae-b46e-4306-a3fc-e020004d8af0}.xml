@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{c1bce2ae-b46e-4306-a3fc-e020004d8af0}">
 		<property name="assetPath">
-			<value>gas.wav</value>
+			<value>World_VA/gas.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{78c8a115-d78e-4f3c-bd29-5805f1c6a9bc}">
+		<property name="assetPath">
+			<value>Mob_Death/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f4de19c2-499a-4e14-8c4d-b6efb808c1bc}</destination>
+		</relationship>
+	</object>
+</objects>

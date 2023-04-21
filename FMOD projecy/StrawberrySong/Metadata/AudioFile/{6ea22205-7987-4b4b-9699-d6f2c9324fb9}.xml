@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{6ea22205-7987-4b4b-9699-d6f2c9324fb9}">
 		<property name="assetPath">
-			<value>BlackHole.wav</value>
+			<value>World_A/BlackHole.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
