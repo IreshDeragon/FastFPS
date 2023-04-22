@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{a20c639c-3d61-47b9-908c-fa0d4a24d680}">
+	<object class="AudioFile" id="{e650c8cd-0d9e-498d-9bdc-8e3330662348}">
 		<property name="assetPath">
-			<value>Character_SM/MetalWoosh2.wav</value>
+			<value>Character_SM/CharacterSpecialMoveGrappin.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>96</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>0.43584374999999997</value>
+			<value>3.9711666666666665</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f4de19c2-499a-4e14-8c4d-b6efb808c1bc}</destination>

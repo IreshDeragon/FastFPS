@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{8321c4a3-fbbb-4d9c-98f5-4209c65f9693}">
 		<property name="assetPath">
-			<value>Weapon_MG_SwitchMode.wav</value>
+			<value>Weapon_MG/Weapon_MG_SwitchMode.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
