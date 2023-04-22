@@ -107,6 +107,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{42dd99f0-34f2-46cb-878b-46849ddd66f5}">
+		<property name="volume">
+			<value>-8.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -154,7 +157,7 @@
 	<object class="MixerBusFader" id="{ec68e461-4880-4e5d-b402-35e75f674c2c}" />
 	<object class="PitchShifterEffect" id="{3f823d46-9e1f-41a3-9b0a-a759ddcd1e01}">
 		<property name="pitch">
-			<value>0.610000014</value>
+			<value>0.659999967</value>
 		</property>
 	</object>
 </objects>
