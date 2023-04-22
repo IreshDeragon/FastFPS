@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{d7a69098-ae5a-45b7-b746-a405cf2c29d0}">
 		<property name="assetPath">
-			<value>InGameUI_RL_Ready_3.wav</value>
+			<value>InGameUI_RL/InGameUI_RL_Ready_3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{aca4e09b-62f3-41cb-8d31-24cac8adc7fe}">
 		<property name="assetPath">
-			<value>MobEggSpawnEnd.wav</value>
+			<value>Mob_E/MobEggSpawnEnd.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
