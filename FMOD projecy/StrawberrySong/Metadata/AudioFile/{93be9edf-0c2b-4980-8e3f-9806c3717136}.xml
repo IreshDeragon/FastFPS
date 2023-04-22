@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{93be9edf-0c2b-4980-8e3f-9806c3717136}">
+		<property name="assetPath">
+			<value>Mob_E/MobEggHit2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51922902494331069</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f4de19c2-499a-4e14-8c4d-b6efb808c1bc}</destination>
+		</relationship>
+	</object>
+</objects>
