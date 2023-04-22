@@ -100,6 +100,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{2db13f00-debd-4a16-a450-3f60924ed5ae}">
+		<property name="volume">
+			<value>-5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -116,6 +119,7 @@
 	<object class="MixerBusEffectChain" id="{f05540b9-9d30-44ac-91a1-6c6ffb037fdb}">
 		<relationship name="effects">
 			<destination>{9e98ab15-d8cd-4169-8e54-b0e00ebe6cb9}</destination>
+			<destination>{98a46e1f-9839-403b-a92b-2345f91b2e4d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{332e96af-e983-4e74-bd42-a05f4a436247}" />
@@ -127,5 +131,10 @@
 	</object>
 	<object class="MixerBusPanner" id="{156c3577-d487-49aa-8489-d9326364792e}" />
 	<object class="MixerBusFader" id="{9e98ab15-d8cd-4169-8e54-b0e00ebe6cb9}" />
+	<object class="PitchShifterEffect" id="{98a46e1f-9839-403b-a92b-2345f91b2e4d}">
+		<property name="pitch">
+			<value>1.44999993</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{6e8b2ed2-a085-46b2-b8c4-c8ff004f13b1}" />
 </objects>
