@@ -147,6 +147,9 @@
 	<object class="SpatialiserEffect" id="{f5b304ff-4d64-4e5b-a8ec-261a56320906}" />
 	<object class="MixerBusFader" id="{1661dc7a-58b7-4e40-ae62-67663f21243c}" />
 	<object class="PitchShifterEffect" id="{418d5a67-c6bc-4427-b0a6-95ae61db6572}">
+		<property name="pitch">
+			<value>0.919999957</value>
+		</property>
 		<property name="fftSize">
 			<value>1360</value>
 		</property>
