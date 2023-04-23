@@ -8,11 +8,11 @@
 4)Mob_B_Spawn Corresponds a l'apprition du mob basique 
 5)Mob_B_Walk Corresponds au déplacement organique du mob basique 
 6)Weapon_MG_Shoot Corresponds au tir énergétique de la mitrailleuse du joueur
-7)Mob_B_Hit Corresponds au dégât provoqué lar la collision du blast d'énergie tirer par le joueur sur la mob basique
+7)Mob_B_Hit Corresponds aux dégâts provoqué par la collision du blast d'énergie tirer par le joueur sur la mob basique
 8)Mob_B_DeathExplosion Corresponds a l'explosion organique du mob basique lors de sa mort </value>
 		</property>
 		<property name="name">
-			<value>Scene de Adel Ait Briim</value>
+			<value>Scene de Adel AIT BRIIM</value>
 		</property>
 		<relationship name="folder">
 			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>

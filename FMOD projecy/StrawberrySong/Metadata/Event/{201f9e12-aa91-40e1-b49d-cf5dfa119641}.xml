@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{201f9e12-aa91-40e1-b49d-cf5dfa119641}">
+		<property name="note" />
 		<property name="color">
 			<value>Purple Light 1</value>
 		</property>

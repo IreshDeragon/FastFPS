@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SandboxScene" id="{0db8c34a-7f44-4837-9021-1e31878cdf99}">
+		<property name="name">
+			<value>Scene de Maxime DRONNIER</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{429ea121-1a64-4bc3-a971-d05abb7edfdb}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{05543389-4fa8-4178-acc2-cd8e7189d6ee}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{429ea121-1a64-4bc3-a971-d05abb7edfdb}" />
+	<object class="Timeline" id="{05543389-4fa8-4178-acc2-cd8e7189d6ee}" />
+</objects>

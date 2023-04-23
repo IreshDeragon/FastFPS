@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SandboxScene" id="{d068a331-d258-430b-bfe2-7b96211449a9}">
+		<property name="name">
+			<value>Scene de Mohamed LAJMI</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{5460d6d2-5dd0-475e-89d4-7f543633defa}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{cecd91ff-9a99-40a0-924e-c15b9dec7a0b}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{5460d6d2-5dd0-475e-89d4-7f543633defa}" />
+	<object class="Timeline" id="{cecd91ff-9a99-40a0-924e-c15b9dec7a0b}" />
+</objects>

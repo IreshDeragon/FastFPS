@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SandboxScene" id="{beed6c01-5bbb-4eb2-a325-a5540fa3da68}">
+		<property name="name">
+			<value>Scene de Renan BEAUVOIS</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{8528d9a7-4ea4-45c1-83fb-d7e8cf50e340}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{446ee6bf-2e53-4fb7-a23f-f62825467733}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{8528d9a7-4ea4-45c1-83fb-d7e8cf50e340}" />
+	<object class="Timeline" id="{446ee6bf-2e53-4fb7-a23f-f62825467733}" />
+</objects>

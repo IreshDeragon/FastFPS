@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SandboxScene" id="{5b6044b9-2594-4734-8977-086d84ae3370}">
+		<property name="name">
+			<value>Scene de Chouchane OZCELIK</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{67f587b2-6b66-4ae8-8713-ff6382c17115}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{76e7b502-f308-4557-8975-92c5950a487b}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{67f587b2-6b66-4ae8-8713-ff6382c17115}" />
+	<object class="Timeline" id="{76e7b502-f308-4557-8975-92c5950a487b}" />
+</objects>

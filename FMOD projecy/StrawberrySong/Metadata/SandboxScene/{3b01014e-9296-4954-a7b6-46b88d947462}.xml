@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SandboxScene" id="{3b01014e-9296-4954-a7b6-46b88d947462}">
+		<property name="name">
+			<value>Scene de Maugän AGOSTINI</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
+		</relationship>
+		<relationship name="markerTracks">
+			<destination>{dc396d04-b8c3-46b9-a47f-cd445fce0206}</destination>
+		</relationship>
+		<relationship name="timeline">
+			<destination>{73e4418a-0ea7-4ee3-88b8-fd677758ee64}</destination>
+		</relationship>
+	</object>
+	<object class="MarkerTrack" id="{dc396d04-b8c3-46b9-a47f-cd445fce0206}" />
+	<object class="Timeline" id="{73e4418a-0ea7-4ee3-88b8-fd677758ee64}" />
+</objects>
