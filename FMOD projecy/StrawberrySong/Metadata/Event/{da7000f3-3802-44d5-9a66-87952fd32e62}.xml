@@ -5,7 +5,7 @@
 			<value>Yellow</value>
 		</property>
 		<property name="name">
-			<value>Character_SM_Grappin 2</value>
+			<value>Character_SM_Grappin</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
@@ -56,7 +56,7 @@
 			<destination>{493a7624-7c76-49c1-b177-9e60adb298a9}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{c47820e1-7946-486a-b6d5-57180c810bbc}</destination>
+			<destination>{5bb71afb-dfce-4085-8dde-582c435f0cbc}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{eccafcb0-5765-4c8e-a85e-7d3976236505}" />
