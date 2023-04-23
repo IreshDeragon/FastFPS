@@ -7,7 +7,7 @@ Dans cette situation le nid produit du gaz et le joueur es talerté par une alar
 </value>
 		</property>
 		<property name="name">
-			<value>Scene de  Pierre BOUSSIN</value>
+			<value>Scene de  Pierre BOUSIN</value>
 		</property>
 		<relationship name="folder">
 			<destination>{8c93c41f-6c50-401b-965f-4d60746d3b0e}</destination>
