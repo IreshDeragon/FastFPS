@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{6f275a0a-c736-4f0a-8a46-e082de8c9eda}">
+		<property name="name">
+			<value>Mob_DeathExplosion</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{395c7ff2-8cf9-4d98-9b25-6fed0145e58a}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{7164727c-c162-4f71-bd30-6e7ace01a1e0}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{c47820e1-7946-486a-b6d5-57180c810bbc}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{395c7ff2-8cf9-4d98-9b25-6fed0145e58a}">
+		<relationship name="effects">
+			<destination>{e5f695d7-a170-4496-a365-4044199235fe}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{7164727c-c162-4f71-bd30-6e7ace01a1e0}" />
+	<object class="MixerBusFader" id="{e5f695d7-a170-4496-a365-4044199235fe}" />
+</objects>

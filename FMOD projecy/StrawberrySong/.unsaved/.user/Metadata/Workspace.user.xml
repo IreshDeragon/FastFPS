@@ -9,12 +9,6 @@
 		</relationship>
 	</object>
 	<object class="ProjectSettings" id="{704932a0-aac0-499e-9bcd-2a66d9912ea5}">
-		<property name="openWindows">
-			<value>Sandbox 1</value>
-		</property>
-		<property name="windowLayout">
-			<value>AAAAAgAAABIAUwBhAG4AZABiAG8AeAAgADEAAABCAdnQywADAAAAAAAA////+wAABP8AAAKrAAABQAAAAGYAAAUgAAAB3gAAAAACAAAABQAAAAAAAAAAEQAABP8AAAKrAAAAHABFAHYAZQBuAHQAIABFAGQAaQB0AG8AcgAgADEAAABCAdnQywADAAAAAAAA////+wAABP8AAALvAAAAAAAAAAD////+/////gAAAAACAAAABQAAAAAAAAAAEQAABP8AAALv</value>
-		</property>
 		<relationship name="activePlatform">
 			<destination>{7c4a69a8-124a-41a4-8d65-353ff660f05a}</destination>
 		</relationship>
