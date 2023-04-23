@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{accbb0a5-9aae-4480-878d-6adabd1d59d2}">
+		<property name="note">
+			<value>L'event 1 correspond à l'ambiance du jeu. Dans cette situation le nid produit du gaz et le joueur es talerté par l'event 2. Puis il s'enfuit avec son grappin avec l'event 7. Ensuite un mob basique spawn avec l'event 5 puis marche vers le joueur avec l'event 6 et l'attaque avec l'event 3. Le joueur réplique avec en tirant sur le mob avec son shotgun avec l'event 8 et le mob explose en mourrant avec l'event 4.
+</value>
+		</property>
 		<property name="color">
 			<value>Yellow</value>
 		</property>
