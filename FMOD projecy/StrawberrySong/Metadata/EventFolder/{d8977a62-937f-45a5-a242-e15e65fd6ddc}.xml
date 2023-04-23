@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="EventFolder" id="{86804ce3-7801-4ffb-aa28-38966b9e16a4}">
-		<property name="note">
-			<value>
-
-
-
-
-
-
-
-</value>
-		</property>
+	<object class="EventFolder" id="{d8977a62-937f-45a5-a242-e15e65fd6ddc}">
+		<property name="note" />
 		<property name="name">
 			<value>BasicsMove</value>
 		</property>
 		<relationship name="folder">
-			<destination>{4fc9ccbb-df91-42af-bcb8-e9564e78e2fb}</destination>
+			<destination>{86804ce3-7801-4ffb-aa28-38966b9e16a4}</destination>
 		</relationship>
 	</object>
 </objects>
